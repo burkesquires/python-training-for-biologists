@@ -1,0 +1,16 @@
+Setting up your computer...
+
+To setup your computer for the Python Programming for Biologists training, please install the latest Continuum Analytics Anaconda Python 3 distribution found at https://www.continuum.io/downloads.
+
+The Anaconda Python distribution includes the python programming language, many python packages that we will use throughout the training as well as the conda installation software and anaconda-navigator software to manage everything.
+
+Please follow the link above and install the software for you use only. Do not install for everyone to use on your computer. This will make the installation location more consistent with the rest of the lessons as well as enable you to throw away the anaconda directory and re-install the whole distribution should anything go wrong.
+To start the Jupyter Notebook...
+To start the notebook, you can use one of two methods. The first method is to find the Anaconda-Navigator software installed in the anaconda folder in your home folder. Once you have found this circular green icon, double click on it and click "Launch" to start the jupiter notebook.
+
+Alternatively, you can open a terminal and type the command:	$ jupyter notebook
+
+
+Loading a notebook...
+
+Once you have the Anaconda distribution installed and you have open the Jupyter notebook software you can use the Jupyter dashboard to navigate to the folder or directory you wish to start in or open an existing jupyter notebook from.
